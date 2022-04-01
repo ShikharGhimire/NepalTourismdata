@@ -1,1 +1,2 @@
-All the data from himalayandatabase is stored here
+### All the data from himalayandatabase is stored here
+- The rar files consists of all the himalayan database df files. The heart of the Himalayan Database is comprised of three separate tables, one for all the mountaineering peaks of Nepal, one for all the expeditions that have climbed in Nepal or on its border peaks, and one for the members of those expeditions.
