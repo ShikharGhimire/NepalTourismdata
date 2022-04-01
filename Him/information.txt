@@ -1,1 +1,0 @@
-All the data from Himalayan database is stored here. 
