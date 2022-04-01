@@ -7,4 +7,4 @@
 - All the data from himalayandatabase is stored here
 - The rar files consists of all the compressed himalayan database df files. It is comprised of three separate tables, one for all the mountaineering peaks of Nepal, one for all the expeditions that have climbed in Nepal or on its border peaks, and one for the members of those expeditions.
 - Click on the rar file and click 'View raw' to download it
-- I have also added my SQL scipts to extract datas from the database relational tables and stored into csv files. SQL scripts are also available
+- I have also added my SQL scripts to extract datas from the database relational tables and stored into csv files. SQL scripts are also available
