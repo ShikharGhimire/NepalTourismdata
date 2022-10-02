@@ -22,4 +22,4 @@ more than 78,400 records in this table.
 
 - The Refer table describes the literature references for each expedition,
 primarily major books and journal and magazine articles. There are more than
-14,700 records in this table.
+14,700 records data in this table
